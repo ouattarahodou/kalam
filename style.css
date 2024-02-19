@@ -1,0 +1,12 @@
+.div{
+    display: flex;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 1px solid red;
+    border-radius: 15px;
+}
+P{
+    margin: auto;
+}
